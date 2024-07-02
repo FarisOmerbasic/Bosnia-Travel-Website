@@ -1,6 +1,13 @@
 # Bosnia Travel Website
  This website shows the beauty of Bosnia and gives description aboout Bosnia Travel application
 
+# Usage
+
+After you open the project in vs code, go to terminal type
+cd react-pr
+npm run dev
+This will successfully run the website and you will get a locaclhost link to it
+
  # Demo
 ![demo1](https://github.com/FarisOmerbasic/Bosnia-Travel-Website/assets/154029097/21bb0c7e-2dec-423c-acf6-e2aefae1f584)
 ![demo2](https://github.com/FarisOmerbasic/Bosnia-Travel-Website/assets/154029097/18cc57e6-32d9-4d5c-8c2b-329fa7fc461e)
