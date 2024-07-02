@@ -4,8 +4,8 @@
 # Usage
 
 After you open the project in vs code, go to terminal type
-cd react-pr
-npm run dev
+# cd react-pr
+# npm run dev
 This will successfully run the website and you will get a locaclhost link to it
 
  # Demo
